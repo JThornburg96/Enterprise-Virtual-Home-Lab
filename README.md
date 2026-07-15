@@ -151,6 +151,7 @@ Detailed documentation for each component of the lab can be found in the **docs*
 | pfSense | Firewall and routing configuration |
 | Active Directory | Domain configuration |
 | DNS | DNS design and troubleshooting |
+---
 | Group Policy | Enterprise policy management |
 | File Server | Storage and NTFS permissions |
 | Azure Hybrid | Azure integration |
@@ -167,13 +168,7 @@ Enterprise-HomeLab
 │
 ├── docs/
 │
-├── diagrams/
-│
-├── screenshots/
-│
-├── scripts/
-│
-└── assets/
+├── images/
 ```
 
 ---
