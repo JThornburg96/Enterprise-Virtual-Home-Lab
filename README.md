@@ -152,6 +152,7 @@ Detailed documentation for each component of the lab can be found in the **docs*
 | Active Directory | Domain configuration |
 | DNS | DNS design and troubleshooting |
 | Group Policy | Enterprise policy management |
+
 | Coming Soon: | Listed Below |
 | File Server | Storage and NTFS permissions |
 | Azure Hybrid | Azure integration |
